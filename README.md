@@ -5,7 +5,7 @@ Nim         : `I.2410157` <br/>
 Fakultas    : `Ilmu Komputer` <br/>
 
 # Rincian Tugas Pengembangan Aplikasi
-`Gambar Gantt chart:` <br/>
+`Gambar Gantt Chart Pengembangan Aplikasi:` <br/>
 
 <img width="386" alt="Image" src="https://github.com/user-attachments/assets/9d408c7f-f475-4dad-a583-d4e761166222" /> <br/>
 
